@@ -1,5 +1,3 @@
-// ### Hi there 👋
-
 <h1 align="center">Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresryes" alt="andresryes" /> </p>
 
@@ -10,9 +8,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresryes&show_icons=true" alt="andresryes" /></p>
 
 <p align="center">
-<a href="https://twitter.com/andresryes_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andresryes" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andresryes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andresryes" height="30" width="30" /></a>
-<a href="https://instagram.com/andresryes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andresryes" height="30" width="30" /></a>
+<a href="https://twitter.com/andresryes_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andresryes" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/andresryes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andresryes" height="30" width="30" /></a>
+<a href="https://instagram.com/andresryes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andresryes" height="30" width="30" /></a>
 </p>
 
 <!--
